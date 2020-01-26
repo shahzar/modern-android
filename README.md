@@ -2,6 +2,8 @@
 
 A modern android boilerplate developed using Clean Architecture & other latest development standards.
 
+![cover](art/cover.png)
+
 ### Languages, Libraries & Tools
 - Kotlin
 - Coroutines
