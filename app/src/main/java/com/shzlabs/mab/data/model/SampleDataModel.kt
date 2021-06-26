@@ -11,7 +11,7 @@ data class SampleDataModel(
     var title: String = "",
     @SerializedName("userId")
     var userId: Int = 0
-) {
+): BaseModel() {
 
     override fun toString(): String {
         return super.toString()
